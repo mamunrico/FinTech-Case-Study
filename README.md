@@ -1,2 +1,1 @@
-# fintech
- class
+FinTech Case Study
